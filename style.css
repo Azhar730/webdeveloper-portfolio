@@ -53,11 +53,6 @@ nav a{
     background-repeat: no-repeat;
     background-position: bottom right;
 }
-#developer{
-    background-image: url('images/developer.png');
-    background-repeat: no-repeat;
-    background-position: bottom left;
-}
 .banner{
     padding: 30px 30px 0px 150px;
     display: flex;
